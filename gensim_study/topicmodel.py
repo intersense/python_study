@@ -61,4 +61,4 @@ corpus_memory_friendly = MyCorpus() # doesn't load the corpus into memory
 for vector in corpus_memory_friendly:
 	print (vector)
 
-print ("编码")
+#print ("编码")
