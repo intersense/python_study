@@ -1,8 +1,16 @@
-At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.
-
-If you're not comfortable using the command line right now, GitHub lets you complete many Git-related actions without using the command line, including:
-
-Creating a repository
-Forking a repository
-Being social
-However, if you find that you need to use Git, we can help you set it up!
+COLLEGE LIFE What was the most difficult transition for you when coming to college 
+What do you like the most about your College Life  Is there anything that you would like to change  If so  why 
+Can anyone go to college  How do people get into college and how much choice do you have when choosing what area of study to pursue  Is it possible to change your selected major  If so  how hard is it  
+How much time is spent studying  How much time is spent socializing  What types of things do you do when you are not studying 
+CULTURAL TRADITIONS FAMILY What is the typical traditional family structure in your family   What traditional values hold the family together   What conflicts occur in the traditional family  
+What do you think will be the typical family structure for your generation  Will it be different from the traditional structure of your parents and grandparents  If so  what will you change when raising your own family  What are the causes of the change 
+The cultural patterns of more urban living  more divorce  more cohabitation  and fewer children are common.  What events and forces do you think led to these changes   In what ways are they good or bad   How do they affect your family 
+What differences do you see in gender roles in your culture   What similarities do you see   To what extent do you and your family conform to the gender roles common in your culture 
+TRADITIONS What is the most meaningful tradition in your family  Why is it so meaningful to you  
+Which of these traditions would you consider to be the most popular among people in your culture  
+Are some traditions being dropped   If so  why   What do you think are the reasons that some traditions are kept while others are dropped  
+Do you think your children will continue to celebrate the customs and festivals that you practice   If so  why   If not  why   MEANING OF LIFE In your culture  what provides a sense of purpose and fulfillment to most people  What in your own life brings purpose and fulfillment  In the traditional beliefs in your culture  why is humankind on earth  Why do you feel that you are on earth   Have the traditional beliefs changed from your grandparent’s generation to your own  If so  in what ways have they changed  What factors have shaped the traditional meaning of life and how might they change for your children 
+STEREOTYPES   PREDUDICE How do you think your culture is perceived by the rest of the world  What stereotypes of your culture are the most troubling to you  Why  
+What do you feel are the causes that lead to stereotyping and holding a prejudice over a certain group  Where do these feelings and thoughts come from  
+In your own lifetime  what prejudices have you seen change  and in what ways Within your culture  are there different ethnic/cultural groups  How can you tell one group from another  Are certain groups that are stereotyped to engage in certain behaviors  have certain jobs  etc.  than others 
+   

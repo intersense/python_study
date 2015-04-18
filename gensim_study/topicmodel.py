@@ -18,13 +18,13 @@ texts = [line.lower().split() for line in open('mycorpus.txt')]
 
 
 # remove common words and tokenize
-stoplist = set('for a an are i of the and to in on with that this by is using'.split())
+stoplist = set('for a an are i of the and to in on with that this by is'.split())
 #remove the punctuation by string.replace(string.punctuation,"") 
-text1 = [[word.replace(string.punctuation,"") for word in wordlist ]for wordlist in texts]
+texts = [[word.replace(string.punctuation," ") for word in wordlist ]for wordlist in texts]
 '''for text in texts:
 	for token in text:'''
 
-logging.info(text1)
+logging.info(texts)
 #streaming
 dictionary = corpora.Dictionary(texts)
 dictionary.save('deerwester.dict')
@@ -57,6 +57,7 @@ class MyCorpus(object):
 	def __iter__(self):
 		for line in open('mycorpus.txt'):
 			yield dictionary.doc2bow(line.lower().split())
+			
 corpus_memory_friendly = MyCorpus() # doesn't load the corpus into memory
 for vector in corpus_memory_friendly:
 	print (vector)
